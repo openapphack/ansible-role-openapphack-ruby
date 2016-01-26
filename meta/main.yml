@@ -1,0 +1,21 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: openapphack
+  description: Ruby installation for Linux.
+  company: ""
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: Ubuntu
+    versions:
+    - lucid
+    - trusty
+    - precise
+  - name: Debian
+    versions:
+    - all
+  categories:
+    - development
+    - web
